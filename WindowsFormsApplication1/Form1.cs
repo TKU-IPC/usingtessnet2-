@@ -18,7 +18,7 @@ namespace WindowsFormsApplication1
         }
 
         /// <summary>
-        /// 開始辨識(Begin Recon)
+        /// 開始辨識
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
